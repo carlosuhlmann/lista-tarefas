@@ -1,4 +1,4 @@
-#Lista de tarefas
+# Lista de tarefas
 
 Projeto de uma lista de tarefas que roda diretamente no navegador.
 
