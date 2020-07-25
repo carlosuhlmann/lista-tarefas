@@ -1,3 +1,3 @@
 # lista-tarefas
 
-![](carlosuhlmann/lista-tarefas/gif.gif)
+![](https://github.com/carlosuhlmann/lista-tarefas/blob/master/gif.gif)
