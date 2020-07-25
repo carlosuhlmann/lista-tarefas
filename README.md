@@ -1,4 +1,4 @@
-# <center>Lista de tarefas</center>
+#                         Lista de tarefas
 
 ![](https://github.com/carlosuhlmann/lista-tarefas/blob/master/gif.gif)
 
