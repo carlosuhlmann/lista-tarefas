@@ -2,10 +2,8 @@
   Lista de tarefas
 </h1>
 
-```Lista de tarefas que armazena as respectivas tarefas no próprio navegador.```
-
 <p align="center">
-
+  Lista de tarefas que armazena as respectivas tarefas no próprio navegador.
 </p>
 
 <h2 align="center">
