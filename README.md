@@ -2,6 +2,8 @@
   Lista de tarefas
 </h1>
 
+<center>teste</center>
+
 <p align="center">
   Lista de tarefas que armazena as respectivas tarefas no próprio navegador.
 </p>
