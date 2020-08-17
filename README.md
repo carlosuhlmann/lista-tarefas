@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Lista de tarefas que roda diretamente no navegador do usuário.
+  Lista de tarefas que roda armazena as respectivas tarefas no próprio navegador.
 </p>
 
 <h2 align="center">
